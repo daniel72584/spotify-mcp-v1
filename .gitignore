@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+node_modules
+
+
+# TypeScript
+*.tsbuildinfo
+dist/
+build/
+coverage/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*.local
+
+# Logs and Temporary Files
+*.log
+tmp/
+
+# Test artifacts
+junit.xml
+test-results/
+
+# Other
+package-lock.json # If you're using npm < 7, otherwise commit it
+yarn.lock         # If you're using Yarn, otherwise commit it
