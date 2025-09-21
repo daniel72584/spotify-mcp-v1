@@ -31,3 +31,7 @@ Given by [Spotify Credentials](https://developer.spotify.com/documentation/web-a
   }
 }
 ```
+
+# Example:
+![Example1](https://github.com/daniel72584/spotify-mcp-v1/blob/master/examples/example_1.png)
+![Example2](https://github.com/daniel72584/spotify-mcp-v1/blob/master/examples/example_2.png)
